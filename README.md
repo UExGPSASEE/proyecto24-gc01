@@ -15,9 +15,9 @@ Toda la información principal sobre el proyecto, su arquitectura, y los lineami
 
 Este proyecto se estructura en múltiples módulos, cada uno de los cuales se encuentra en un repositorio separado. A continuación, encontrarás los enlaces a cada uno de ellos:
 
-- [**GC01_API_Content**](https://github.com/tu-organizacion/GC01_API_Content): Módulo API para la gestión de contenido. Aquí se manejan todas las operaciones relacionadas con los datos de contenido del proyecto.
-- [**GC01_API_Users**](https://github.com/tu-organizacion/GC01_API_Users): Módulo API para la administración de usuarios. Este servicio gestiona los datos y autenticación de usuarios.
-- [**GC01_API_Add-Info**](https://github.com/tu-organizacion/GC01_API_Add-Info): Módulo API para información adicional. En este módulo se incluyen datos complementarios necesarios para el sistema.
+- [**GC01_API_Content**](https://github.com/UExGPSASEE/GC01_API_Content.git): Módulo API para la gestión de contenido. Aquí se manejan todas las operaciones relacionadas con los datos de contenido del proyecto.
+- [**GC01_API_Users**](https://github.com/UExGPSASEE/GC01_API_Users.git): Módulo API para la administración de usuarios. Este servicio gestiona los datos y autenticación de usuarios.
+- [**GC01_API_Add-Info**](https://github.com/UExGPSASEE/GC01_API_Add-Info.git): Módulo API para información adicional. En este módulo se incluyen datos complementarios necesarios para el sistema.
 - [**GC01_UI**](https://github.com/UExGPSASEE/GC01_UI.git): Interfaz de usuario del proyecto. Aquí se encuentra el código para la interfaz visual que interactúa con las API mencionadas anteriormente.
 
 ---
@@ -34,7 +34,7 @@ Consulta cada repositorio individual para más detalles sobre su tecnología y d
 
 ---
 
-¡Gracias por tu interés en nuestro proyecto! Estamos emocionados de construir algo genial juntos. Para cualquier pregunta o comentario, no dudes en abrir un issue o contribuir directamente al proyecto. 😊
+¡Gracias por tu interés en nuestro proyecto! Estamos emocionados de construir algo genial juntos. Para cualquier pregunta o comentario, no dudes en abrir un issue. 😊
 
 ---
 **© GC01 - 2024**
